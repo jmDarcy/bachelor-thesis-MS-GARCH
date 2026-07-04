@@ -48,7 +48,7 @@ $$
 r_t = \log(P_t) - \log(P_{t-1}),
 $$
 
-where \(P_t\) is the fund price at day \(t\). For each portfolio, equal weights are used:
+where $P_t$ is the fund price at day $t$. For each portfolio, equal weights are used:
 
 $$
 r_{p,t} = \sum_{i=1}^{N} w_i r_{i,t}, \qquad w_i = \frac{1}{N}.
