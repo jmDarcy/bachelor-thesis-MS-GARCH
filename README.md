@@ -61,7 +61,7 @@ r_t = \mu_t + \varepsilon_t, \qquad
 \varepsilon_t = \sigma_t z_t,
 $$
 
-where $\(z_t\)$ follows a standardized innovation distribution and $\(\sigma_t^2\)$ is the time-varying conditional variance. In the Markov-switching specification, parameters may depend on an unobserved regime variable \(S_t\), which allows volatility dynamics to differ across market states.
+where $\(z_t\)$ follows a standardized innovation distribution and $\(\sigma_t^2\)$ is the time-varying conditional variance. In the Markov-switching specification, parameters may depend on an unobserved regime variable $(S_t)$, which allows volatility dynamics to differ across market states.
 
 For a confidence tail level $\alpha$, the one-step-ahead Value at Risk is the conditional return quantile:
 
