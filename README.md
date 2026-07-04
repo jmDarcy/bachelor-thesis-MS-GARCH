@@ -2,7 +2,7 @@
 
 This repository is the reproducible code companion to a bachelor's thesis on market-risk modelling for selected Polish mutual funds. The empirical part of the thesis compares a conservative and an aggressive equal-weight portfolio, estimates conditional volatility models, and evaluates one-day-ahead downside-risk forecasts with Value at Risk (VaR) and Expected Shortfall (ES).
 
-The project was cleaned from a larger working directory and reorganized so that it can be reviewed, rerun, and pushed to GitHub without temporary files, duplicated scripts, binary model outputs, or local absolute paths.
+The project was cleaned from a larger working directory and reorganized so that it can be reviewed, rerun without temporary files, duplicated scripts, binary model outputs, or local absolute paths.
 
 ## Thesis Context
 
