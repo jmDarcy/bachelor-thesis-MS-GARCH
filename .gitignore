@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+data/processed/*.rds
+output/models/*.rds
+output/figures/*.png
+output/figures/*.jpg
+output/figures/*.jpeg
+output/tables/*.csv
+output/tables/*.tex
+
+*.log
+*.tmp
+~*
